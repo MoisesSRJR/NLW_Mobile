@@ -10,7 +10,6 @@ import {
   Inter_900Black
 } from '@expo-google-fonts/inter';
 
-
 export default function App() {
   const [fontsLoaded] = useFonts({
     Inter_400Regular,
